@@ -12,8 +12,10 @@
 
 Реализация:
 
-[MyString](https://github.com/MikhailAkulov/intoTheDepthsOfPython/blob/main/pythonHomeWork_11/seminar_task_my_string.py)
+[Server](https://github.com/MikhailAkulov/Computers_networks_HW/blob/main/server.py)
 
-[Archive](https://github.com/MikhailAkulov/intoTheDepthsOfPython/blob/main/pythonHomeWork_11/seminar_task_archive.py)
+[client1](https://github.com/MikhailAkulov/Computers_networks_HW/blob/main/client1.py)
 
-[Rectangle](https://github.com/MikhailAkulov/intoTheDepthsOfPython/blob/main/pythonHomeWork_11/seminar_task_rectangle.py)
+[client2](https://github.com/MikhailAkulov/Computers_networks_HW/blob/main/client2.py)
+
+[client3](https://github.com/MikhailAkulov/Computers_networks_HW/blob/main/client3.py)
