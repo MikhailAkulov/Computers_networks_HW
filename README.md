@@ -14,8 +14,8 @@
 
 [Server](https://github.com/MikhailAkulov/Computers_networks_HW/blob/main/server.py)
 
-[client1](https://github.com/MikhailAkulov/Computers_networks_HW/blob/main/client1.py)
+[Client1](https://github.com/MikhailAkulov/Computers_networks_HW/blob/main/client1.py)
 
-[client2](https://github.com/MikhailAkulov/Computers_networks_HW/blob/main/client2.py)
+[Client2](https://github.com/MikhailAkulov/Computers_networks_HW/blob/main/client2.py)
 
-[client3](https://github.com/MikhailAkulov/Computers_networks_HW/blob/main/client3.py)
+[Client3](https://github.com/MikhailAkulov/Computers_networks_HW/blob/main/client3.py)
